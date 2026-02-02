@@ -37,7 +37,7 @@ const form = document.getElementById("contactForm");
 const note = document.getElementById("formNote");
 
 // Put your LinkedIn link here once created
-const linkedinUrl = "https://www.linkedin.com/in/YOUR-LINKEDIN";
+const linkedinUrl = "https://www.linkedin.com/in/dehan-barnard/";
 document.getElementById("linkedinLink").href = linkedinUrl;
 document.getElementById("linkedinLink2").href = linkedinUrl;
 
