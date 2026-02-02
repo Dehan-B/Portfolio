@@ -46,3 +46,5 @@ form?.addEventListener("submit", (e) => {
   note.textContent = "Thanks! This demo form doesn’t send yet. Use the email link to contact me.";
   form.reset();
 });
+
+// GitHub Issue
