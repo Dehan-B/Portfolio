@@ -47,4 +47,4 @@ form?.addEventListener("submit", (e) => {
   form.reset();
 });
 
-// GitHub Issue
+// GitHub Issu
